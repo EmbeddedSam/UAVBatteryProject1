@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T23:10:06.162Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="SLfbjzE_KAsavHYls0na" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T23:10:16.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="P252oTRsB4_1T2eZfAW3" version="21.1.0" type="github">
   <diagram name="Page-1" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="708" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="610" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lFPvic3o06fYYUPhfODJ-31" value="Tasks to be done" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="413" y="220" width="220" height="310" as="geometry" />
+          <mxGeometry x="400" y="220" width="220" height="310" as="geometry" />
         </mxCell>
         <mxCell id="lFPvic3o06fYYUPhfODJ-32" value="STM32 DroneCAN interface" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
