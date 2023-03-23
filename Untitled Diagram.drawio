@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T22:59:17.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Imh9ny58iTqxmkmlcKtK" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T23:03:17.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="wxCmBRrSAEvL3S27KeDh" version="21.1.0" type="github">
   <diagram name="Page-1" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="708" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="lFPvic3o06fYYUPhfODJ-39" value="Exploration of ideal cells for the system" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
           <mxGeometry y="270" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lFPvic3o06fYYUPhfODJ-40" value="&lt;a href=&quot;https://www.tcm.phy.cam.ac.uk/~gjc29/papers/NgZhaoYanConduitSeh20.pdf&quot;&gt;https://www.tcm.phy.cam.ac.uk/~gjc29/papers/NgZhaoYanConduitSeh20.pdf&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
