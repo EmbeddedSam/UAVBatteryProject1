@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T22:57:18.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="JaQ91eWrapfvHmfIpK22" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T22:59:17.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Imh9ny58iTqxmkmlcKtK" version="21.1.0" type="github">
   <diagram name="Page-1" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="708" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,10 +88,10 @@
         <mxCell id="lFPvic3o06fYYUPhfODJ-34" value="Choice of ideal monitoring circuitry" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
           <mxGeometry y="120" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lFPvic3o06fYYUPhfODJ-36" value="Designing/testing intelligent state of health predictions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
+        <mxCell id="lFPvic3o06fYYUPhfODJ-36" value="Designing/testing intelligent state of health predictions (training embedded AI models?)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
           <mxGeometry y="150" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lFPvic3o06fYYUPhfODJ-37" value="Designing/testing intelligent state of charge (SoC) algorithms" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
+        <mxCell id="lFPvic3o06fYYUPhfODJ-37" value="Designing/testing intelligent state of charge (SoC) algorithms (training embedded AI models?)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
           <mxGeometry y="190" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lFPvic3o06fYYUPhfODJ-38" value="Making the design as low-power and efficient as possible" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="lFPvic3o06fYYUPhfODJ-31">
