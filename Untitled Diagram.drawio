@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T22:49:21.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="AnAUMSNQqlBecNLHBvjN" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T22:49:37.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="lxQcGVV0eu-oh3el_LDs" version="21.1.0" type="github">
   <diagram name="Page-1" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="708" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         </mxCell>
         <mxCell id="lFPvic3o06fYYUPhfODJ-29" value="DroneCAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="lFPvic3o06fYYUPhfODJ-28">
           <mxGeometry x="0.19" y="-2" relative="1" as="geometry">
-            <mxPoint x="-7" y="-2" as="offset" />
+            <mxPoint x="-10" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lFPvic3o06fYYUPhfODJ-30" value="UAV Master MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
