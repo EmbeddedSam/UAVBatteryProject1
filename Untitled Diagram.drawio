@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T17:50:31.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" version="21.1.0" etag="6nD9q7sVk0H7YLpIE-ic" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T22:29:13.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="-wNpIxcsKuHvzUAf4Qrb" version="21.1.0" type="github">
   <diagram name="Page-1" id="pe__hUXtVgjO9Dz1FMSX">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lFPvic3o06fYYUPhfODJ-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.batteryStack;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="150" y="262" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lFPvic3o06fYYUPhfODJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.48;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="lFPvic3o06fYYUPhfODJ-3" target="lFPvic3o06fYYUPhfODJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFPvic3o06fYYUPhfODJ-3" value="Cell balancing circuitry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="274" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lFPvic3o06fYYUPhfODJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="lFPvic3o06fYYUPhfODJ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFPvic3o06fYYUPhfODJ-6" value="Protection circuitry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lFPvic3o06fYYUPhfODJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.85;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="lFPvic3o06fYYUPhfODJ-8" target="lFPvic3o06fYYUPhfODJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="240" />
+              <mxPoint x="200" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFPvic3o06fYYUPhfODJ-8" value="Monitoring circuitry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
