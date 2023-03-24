@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T13:16:34.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="udQ-CJGNWKGmg1V4Kst4" version="21.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-24T13:17:25.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="0s4LwRsaWHgc62uCPGip" version="21.1.0" type="github" pages="2">
   <diagram name="Project introduction" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="1266" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         </UserObject>
         <UserObject label="https://ieeexplore.ieee.org/abstract/document/9140634/" link="https://ieeexplore.ieee.org/abstract/document/9140634/" id="lFPvic3o06fYYUPhfODJ-43">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-            <mxGeometry x="440" y="1080" width="300" height="40" as="geometry" />
+            <mxGeometry x="440" y="1129" width="300" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="0Y5zSbdFdvqxGXj1xTXD-3" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Cedyr EMBI-U Embedded Modular Battery Intelligent Systems for UAV&#39;s&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
