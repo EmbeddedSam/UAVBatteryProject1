@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T11:00:05.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="EBoLRu1JLHuTPD_OBE05" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T11:00:29.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="3JOozGCFMLqGKkexkEgy" version="21.1.0" type="github">
   <diagram name="Project introduction" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="1026" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,8 +113,8 @@
             <mxGeometry x="460" y="1070" width="300" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="0Y5zSbdFdvqxGXj1xTXD-3" value="&lt;b&gt;Cedyr - EMIU - Embedded Modular Intelligent systems for UAV&#39;s&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="40" y="20" width="630" height="40" as="geometry" />
+        <mxCell id="0Y5zSbdFdvqxGXj1xTXD-3" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;Cedyr - EMIU - Embedded Modular Intelligent systems for UAV&#39;s&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD03Aqp7tKg2aX3hajrl-1" value="&lt;b&gt;Research questions&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="450" y="800" width="350" height="260" as="geometry" />
