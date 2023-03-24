@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T10:28:45.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="-igYflL8nxBSRQZyXc5E" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T10:46:17.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="CKLygXCz3gcUpBLPS84V" version="21.1.0" type="github">
   <diagram name="Project introduction" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="1026" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,8 +118,32 @@
             <mxGeometry x="90" y="625" width="300" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="0Y5zSbdFdvqxGXj1xTXD-3" value="&lt;b&gt;FLYBIES - Flying Vehicle Battery - Intelligent Embedded Systems&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="0Y5zSbdFdvqxGXj1xTXD-3" value="&lt;b&gt;EMIU - Embedded Modular Intelligent systems for UAV&#39;s&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-1" value="Research questions" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="65" y="740" width="350" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-2" value="How can we improve the SoC accuracy of DroneBMS systems?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="KD03Aqp7tKg2aX3hajrl-1">
+          <mxGeometry y="30" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-3" value="How can we improve the SoH accuracy of DroneBMS systems?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="KD03Aqp7tKg2aX3hajrl-1">
+          <mxGeometry y="60" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-4" value="How can we improve the safety/cost/weight/efficiency/reliability of the protection and monitoring circuitry?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="KD03Aqp7tKg2aX3hajrl-1">
+          <mxGeometry y="90" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-10" value="What are the ideal battery cells for commercial drones? What developments have there been? Where are things headed?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="KD03Aqp7tKg2aX3hajrl-1">
+          <mxGeometry y="120" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-11" value="What are the ideal communication interfaces for commercial service drones? DroneCAN, Wireless UI&#39;s, API&#39;s?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="KD03Aqp7tKg2aX3hajrl-1">
+          <mxGeometry y="150" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-12" value="How can the electronics be designed to allow more modular systems - e.g, hot-swapping, parallel packs. How to make these electronics safe and reliable?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="KD03Aqp7tKg2aX3hajrl-1">
+          <mxGeometry y="180" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="KD03Aqp7tKg2aX3hajrl-1">
+          <mxGeometry y="220" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
