@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T13:23:19.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="pPLtkIHFmzfGQAfv4wjZ" version="21.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-24T13:28:45.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="HnVYyspvV0cQ0n8ltWGw" version="21.1.0" type="github" pages="2">
   <diagram name="Project introduction" id="pe__hUXtVgjO9Dz1FMSX">
     <mxGraphModel dx="1026" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="KD03Aqp7tKg2aX3hajrl-1" value="&lt;b&gt;Engineering development questions to be answered&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="450" y="800" width="350" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="KD03Aqp7tKg2aX3hajrl-2" value="How can we improve the SoC prediction accuracy of DroneBMS systems?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="KD03Aqp7tKg2aX3hajrl-1" vertex="1">
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-2" value="How can we improve the SoC prediction accuracy of DroneBMS systems? &lt;b&gt;Can we accurately predict &quot;remaining time flying&quot;?&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="KD03Aqp7tKg2aX3hajrl-1" vertex="1">
           <mxGeometry y="30" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KD03Aqp7tKg2aX3hajrl-3" value="How can we improve the SoH prediction accuracy of DroneBMS systems?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="KD03Aqp7tKg2aX3hajrl-1" vertex="1">
