@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T13:17:25.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="0s4LwRsaWHgc62uCPGip" version="21.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-24T13:18:15.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="oGi6K9cq_SE0uXbOTcPc" version="21.1.0" type="github" pages="2">
   <diagram name="Project introduction" id="pe__hUXtVgjO9Dz1FMSX">
-    <mxGraphModel dx="1266" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
         <mxCell id="KD03Aqp7tKg2aX3hajrl-20" value="Enclosure" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=none;" parent="KD03Aqp7tKg2aX3hajrl-28" vertex="1">
           <mxGeometry x="110" y="52" width="90" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="KD03Aqp7tKg2aX3hajrl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="KD03Aqp7tKg2aX3hajrl-28" source="KD03Aqp7tKg2aX3hajrl-18" target="KD03Aqp7tKg2aX3hajrl-20" edge="1">
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#000000;" parent="KD03Aqp7tKg2aX3hajrl-28" source="KD03Aqp7tKg2aX3hajrl-18" target="KD03Aqp7tKg2aX3hajrl-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD03Aqp7tKg2aX3hajrl-21" value="Power/&lt;br&gt;data connector" style="rounded=0;whiteSpace=wrap;html=1;" parent="KD03Aqp7tKg2aX3hajrl-28" vertex="1">
@@ -158,10 +158,10 @@
         <mxCell id="KD03Aqp7tKg2aX3hajrl-22" value="Enclosure" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=none;" parent="KD03Aqp7tKg2aX3hajrl-28" vertex="1">
           <mxGeometry x="220" y="52" width="90" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="KD03Aqp7tKg2aX3hajrl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="KD03Aqp7tKg2aX3hajrl-28" source="KD03Aqp7tKg2aX3hajrl-20" target="KD03Aqp7tKg2aX3hajrl-22" edge="1">
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#000000;" parent="KD03Aqp7tKg2aX3hajrl-28" source="KD03Aqp7tKg2aX3hajrl-20" target="KD03Aqp7tKg2aX3hajrl-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD03Aqp7tKg2aX3hajrl-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#b85450;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;strokeWidth=4;fillColor=#f8cecc;" parent="KD03Aqp7tKg2aX3hajrl-28" source="KD03Aqp7tKg2aX3hajrl-26" target="KD03Aqp7tKg2aX3hajrl-22" edge="1">
+        <mxCell id="KD03Aqp7tKg2aX3hajrl-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;strokeWidth=4;fillColor=#f8cecc;" parent="KD03Aqp7tKg2aX3hajrl-28" source="KD03Aqp7tKg2aX3hajrl-26" target="KD03Aqp7tKg2aX3hajrl-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD03Aqp7tKg2aX3hajrl-26" value="UAV sub-systems" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=none;" parent="KD03Aqp7tKg2aX3hajrl-28" vertex="1">
