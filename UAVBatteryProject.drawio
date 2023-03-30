@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T10:32:28.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Sbey5vfuShRPBqdmSjxc" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-30T12:41:17.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="HCvI8YH1TCXa5bt4SDYe" version="21.1.1" type="github" pages="3">
   <diagram name="Project introduction" id="pe__hUXtVgjO9Dz1FMSX">
-    <mxGraphModel dx="1026" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
             <mxPoint x="609" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lFPvic3o06fYYUPhfODJ-29" value="DroneCAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Helvetica;fontColor=default;" parent="lFPvic3o06fYYUPhfODJ-28" vertex="1" connectable="0">
+        <mxCell id="lFPvic3o06fYYUPhfODJ-29" value="Cyphal or DroneCAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Helvetica;fontColor=default;" parent="lFPvic3o06fYYUPhfODJ-28" vertex="1" connectable="0">
           <mxGeometry x="0.19" y="-2" relative="1" as="geometry">
             <mxPoint x="-13" y="-3" as="offset" />
           </mxGeometry>
@@ -109,7 +109,7 @@
             <mxGeometry x="440" y="1129" width="300" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="0Y5zSbdFdvqxGXj1xTXD-3" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Cedyr EMBI-U Embedded Modular Battery Intelligence for UAV&#39;s&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="0Y5zSbdFdvqxGXj1xTXD-3" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;EMBI-U Embedded Modular Battery Intelligence for UAV&#39;s&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD03Aqp7tKg2aX3hajrl-1" value="&lt;b&gt;Engineering development questions to be answered&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
@@ -182,7 +182,7 @@
           <mxGeometry x="620" y="207.5" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KD03Aqp7tKg2aX3hajrl-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="130" width="480" height="340" as="geometry" />
+          <mxGeometry x="130" y="120" width="480" height="340" as="geometry" />
         </mxCell>
         <mxCell id="WTP_79wUknXBWAaRWHSs-1" value="High-level engineering development plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="36" y="60" width="270" height="30" as="geometry" />
